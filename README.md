@@ -1,4 +1,4 @@
-# DanceDjango 🎵💃
+# Dance_ws  🎵💃
 
 A Django-based web application to manage and showcase different dance styles, designed with modularity and scalability in mind.
 
@@ -66,5 +66,4 @@ python manage.py runserver
 python manage.py test
 
 
-CopyEdit
 
